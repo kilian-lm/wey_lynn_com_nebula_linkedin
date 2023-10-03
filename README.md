@@ -33,5 +33,5 @@ I await your thoughts.
 Warm regards,
 
 Kilian
-
+![Bildschirmfoto vom 2023-10-03 23-37-45.png](Bildschirmfoto%20vom%202023-10-03%2023-37-45.png)
 [nebulagraph.html](nebulagraph.html)
