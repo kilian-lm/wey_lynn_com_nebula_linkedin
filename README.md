@@ -9,7 +9,7 @@ Dear Lynn and Wey,
 I hope this message finds you in good spirits. As recent additions to my LinkedIn network, I’ve admired your contributions and wondered if we could embark on an exciting collaboration.
 
 **Motivation:**  
-While preparing to share a recent article on RAM-based GNNs - Amazon Researchers Introduce DistTG, I realized its relevance to my previous posts. The current LinkedIn design, however, doesn't facilitate easy referencing of such connected content.
+While preparing to share a recent article on [RAM-based GNNs ](https://www.marktechpost.com/2023/10/01/amazon-researchers-introduce-disttgl-a-breakthrough-in-scalable-memory-based-temporal-graph-neural-networks-for-gpu-clusters/), I realized its relevance to my previous posts. The current LinkedIn design, however, doesn't facilitate easy referencing of such connected content.
 
 **Context:**  
 LinkedIn, in its current state, encourages fast-paced, buzzword-heavy content, often neglecting the depth and interconnectedness of knowledge. Rather than building on previous insights or referencing established knowledge (standing on the shoulders of giants), content risks becoming ephemeral and redundant.
